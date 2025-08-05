@@ -1,0 +1,1 @@
+Update da pasta com logs de commits.
